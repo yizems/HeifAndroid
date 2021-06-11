@@ -1,3 +1,11 @@
+无任何修改, 仅用于发布 `jitpack`
+
+[![](https://jitpack.io/v/yizems/HeifAndroid.svg)](https://jitpack.io/#yizems/HeifAndroid)
+
+
+
+
+
 HEIF for Android
 ======
 
